@@ -19,7 +19,7 @@ const ProjectsBtn = () => {
           width={141}
           height={148}
           alt=''
-          className='animate-spin-slow w-full h-full max-w-[41px] max-h-[48px]'
+          className='animate-spin-slow w-full h-full max-w-[42px] max-h-[48px]'
         />
       </Link>
     </div>

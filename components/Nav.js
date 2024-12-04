@@ -27,7 +27,7 @@ export const navData = [
   },
   {
     name: 'позвонить',
-    path: '{tel:${+77750073395}',
+    path: 'https://wa.me/+77014191890',
     icon: <HiPhone />,
   },
 ];

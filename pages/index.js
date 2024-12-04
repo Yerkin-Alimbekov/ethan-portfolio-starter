@@ -34,7 +34,7 @@ const Home = () => {
             initial='hidden'
             animate='show'
             exit='hidden'
-            className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
+            className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-20 xl:mb-16'
           >
             Кредиты под залог авто. С правом управления и без.
             3,15% в месяц. Годовая ставка не превышает 37,8%.
@@ -57,7 +57,7 @@ const Home = () => {
         </div>
       </div>
       {/* image */}
-      <div className='w-[1200px] h-full absolute right-0 bottom-0'>
+      <div className='w-[120px] h-full absolute right-0 bottom-0'>
         {/* bg img */}
        {/*} <div className='bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat w-full h-full absolute mix-blend-color-dodge translate-z-0'></div>*/}
         {/* particles */}
